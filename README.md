@@ -11,7 +11,7 @@ WorldLink maimai DX Online C2C Multiplayer Mod
 
 ### On PC & Controller
 
-1. Install [MelonLoader](https://github.com/LavaGang/MelonLoader#install)
+1. Install [MelonLoader](https://github.com/LavaGang/MelonLoader#install) (Tested on 0.7.1)
 2. Download [WorldLink.dll](https://github.com/MewoLab/worldlinkd/releases/latest/download/WorldLink.dll), put it in Mods
 3. Download [WorldLink.toml](https://github.com/MewoLab/worldlinkd/blob/main/mod/WorldLink.toml)
 4. Edit `WorldLink.toml` to select a lobby server
